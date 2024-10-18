@@ -11,6 +11,6 @@
         <form class="relative flex items-center">
             <input class="outline-none h-10 pl-4 pr-12 rounded border text-sm border-greys bg-transparent transition duration-150 ease-in-out text-placenav" type="text" placeholder="Cari  biodata tersembunyi">
         </form>
-        <a href='/login' class="font-inter tracking-wide px-4 py-2 ml-4 rounded-lg bg-secondary text-blue-500 text-base bg-seconhvr"><a href="{{ url('/') }}">Log Out</a></a>
+        <a class=" tracking-wide ml-4 text-blue-500 text-base"><a href="{{ url('/') }}">Log Out</a></a>
     </div>
-    </nav>
+</nav>
