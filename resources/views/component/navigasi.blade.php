@@ -1,4 +1,4 @@
-<nav class="w-full h-[12vh] bg-primary flex items-center fixed top-0 left-0 z-50 shadow-sm px-9">
+<nav class="w-full h-[12vh] bg-white flex items-center fixed top-0 left-0 z-50 shadow-sm px-9">
     <p class="text-4xl mr-auto font-bold text-blue-500">Hacks BIO</p>
     
     <ul class="list-none flex gap-[10vw] mr-[10vw]">
